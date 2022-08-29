@@ -1,6 +1,5 @@
 # Frontend
 
-Web App composed of a Microsoft SQL Database, a .NET Core 3.1 backend api and an Angular frontend split into admin and client sides. After development the web app was deployed to Azure and used in production.   
 This is the frontend used by schools where they have to fill in all of the required information for the monitoring done by CADO.
 
 ## Development server
